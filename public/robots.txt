@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://horyaaldigital.vercel.app/sitemap.xml
+Sitemap: https://horyaalagency.vercel.app/sitemap.xml
